@@ -114,7 +114,7 @@ Do all three. Order is flexible; omission is not.
    say so.
 2. **Reflect first to align.** Open in Reflect, not Make. Surface **Hopes and Fears** and
    **Assumptions and Questions**, map **Stakeholders**, and draft or sharpen a **Hill** as
-   the north star. Name at least one Sponsor User per Hill.
+   the north star. Recruit real Sponsor Users to keep the work grounded.
 3. **Choose the next loop.** Decide whether the team most needs to **Observe** (you're
    guessing about users — go gather data) or **Make** (you understand the need — prototype
    a response). Pick the toolkit activity that fits that intent.
