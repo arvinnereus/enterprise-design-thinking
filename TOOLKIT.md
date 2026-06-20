@@ -5,8 +5,11 @@ How to actually run each core activity when [SKILL.md](SKILL.md) is active. For 
 **Artifact to produce**. Run an activity by explaining it in one line, asking the prompts,
 capturing answers, then outputting the filled artifact. Keep fidelity low; iterate.
 
-Definitions are IBM's (ibm.com/training/enterprise-design-thinking/toolkit). Templates use
-IBM's standard structures for each activity.
+**Credit.** These activities are part of **IBM**'s Enterprise Design Thinking® framework
+(© IBM Corporation; "Enterprise Design Thinking" is a registered trademark of IBM).
+Purposes and templates follow IBM's published toolkit and the IBM Design Thinking Field
+Guide v3.5 (ibm.com/training/enterprise-design-thinking). This is an independent,
+unofficial skill — not affiliated with or endorsed by IBM.
 
 ---
 

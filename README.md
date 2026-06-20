@@ -6,8 +6,10 @@ Observe → Reflect → Make Loop, align with the Keys (Hills, Playbacks, Sponso
 run specific toolkit activities that each produce a real artifact — not a lecture about
 design thinking.
 
-> Independent, unofficial skill. Not affiliated with or endorsed by IBM.
-> See [Attribution & Trademark](#attribution--trademark).
+> **Enterprise Design Thinking® was created and is owned by IBM Corporation** and is a
+> registered trademark of IBM. This is an independent, unofficial skill based on that
+> concept — not affiliated with or endorsed by IBM, and claiming no ownership of the
+> framework. See [Credits & Attribution](#credits--attribution).
 
 ## What it does
 
@@ -71,19 +73,29 @@ Design Thinking framework and toolkit pages
 ([ibm.com/training/enterprise-design-thinking](https://www.ibm.com/training/enterprise-design-thinking))
 and the IBM Design Thinking Field Guide v3.5 — rather than written from memory.
 
-## Attribution & Trademark
+## Credits & Attribution
 
-**Enterprise Design Thinking®** is a framework and registered trademark of **IBM
-Corporation**. This repository is an independent, community-built skill that reorganizes
-publicly available descriptions of IBM's framework for use with the Claude AI assistant.
-It is **not affiliated with, sponsored by, or endorsed by IBM**. For the official
-framework, toolkit, and certification, see:
+**Enterprise Design Thinking® was created and is owned by IBM Corporation** (IBM Design).
+"Enterprise Design Thinking" is a **registered trademark of IBM**, and the framework — its
+Principles, the Loop (Observe / Reflect / Make), the Keys (Hills, Playbacks, Sponsor
+Users), and the activity toolkit — is the intellectual property of IBM. The IBM Design
+Thinking Field Guide is **© IBM Corporation**.
+
+This repository is an **independent, unofficial** Claude skill that reorganizes publicly
+available descriptions of IBM's framework so it can be used with the Claude AI assistant.
+It claims **no ownership** of the framework, is **not affiliated with, sponsored by, or
+endorsed by IBM**, and is offered purely as a practitioner aid. **All credit for the
+methodology belongs to IBM.**
+
+For the official framework, toolkit, certification, and Field Guide, see:
 
 - https://www.ibm.com/design/thinking
 - https://www.ibm.com/training/enterprise-design-thinking
 
+See also the [`NOTICE`](NOTICE) file.
+
 ## License
 
-The original wording, structure, and prompts in this repository are released under the
-[MIT License](LICENSE). The underlying Enterprise Design Thinking framework and methodology
-are IBM's.
+The MIT License in [`LICENSE`](LICENSE) covers **only** the original wording, structure,
+and prompts authored for this skill. It does **not** extend to the Enterprise Design
+Thinking framework or trademark, which remain the property of IBM. See [`NOTICE`](NOTICE).

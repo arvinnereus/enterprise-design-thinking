@@ -25,9 +25,13 @@ and scale of the modern enterprise." It has three parts: the **Principles** (the
 the **Loop** (the process), and the **Keys** (alignment tactics). The **Toolkit** is the
 set of activities you run inside the Loop.
 
-> Source of record: ibm.com/training/enterprise-design-thinking (framework + toolkit).
-> All definitions below are IBM's. For per-activity facilitation steps, see
-> [TOOLKIT.md](TOOLKIT.md).
+> **Credit.** Enterprise Design Thinking® is a framework **created and owned by IBM
+> Corporation** (IBM Design) and is a **registered trademark of IBM**. The Principles, the
+> Loop, the Keys, and the activity toolkit are IBM's intellectual property (see the IBM
+> Design Thinking Field Guide, © IBM Corporation, and ibm.com/design/thinking). This skill
+> is an **independent, unofficial** reorganization of that publicly available material for
+> use with Claude — not affiliated with or endorsed by IBM, and claiming no ownership of
+> the framework. For per-activity steps, see [TOOLKIT.md](TOOLKIT.md).
 
 ## When NOT to use this
 

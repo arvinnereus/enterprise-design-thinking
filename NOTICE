@@ -1,0 +1,34 @@
+NOTICE
+======
+
+This project ("Enterprise Design Thinking — a Claude skill") is an independent, unofficial
+skill based on the Enterprise Design Thinking concept.
+
+CREDIT
+------
+Enterprise Design Thinking® is a framework CREATED AND OWNED BY IBM CORPORATION (IBM
+Design) and is a REGISTERED TRADEMARK of IBM. The framework — including its Principles, the
+Loop (Observe / Reflect / Make), the Keys (Hills, Playbacks, Sponsor Users), and the
+activity toolkit — is the intellectual property of IBM. The IBM Design Thinking Field Guide
+is © IBM Corporation.
+
+WHAT THIS REPOSITORY IS
+-----------------------
+This repository reorganizes publicly available descriptions of IBM's framework
+(ibm.com/design/thinking, ibm.com/training/enterprise-design-thinking, and the IBM Design
+Thinking Field Guide v3.5) so the methodology can be used with the Claude AI assistant.
+
+It is NOT affiliated with, sponsored by, or endorsed by IBM, and it claims NO OWNERSHIP of
+the Enterprise Design Thinking framework or trademark. All credit for the methodology
+belongs to IBM.
+
+SCOPE OF THE LICENSE
+--------------------
+The MIT license in the LICENSE file applies ONLY to the original wording, structure, and
+prompts authored for this skill. It does NOT extend to the underlying framework, which
+remains the property of IBM.
+
+OFFICIAL IBM RESOURCES
+----------------------
+- https://www.ibm.com/design/thinking
+- https://www.ibm.com/training/enterprise-design-thinking
