@@ -161,6 +161,28 @@ unofficial skill — not affiliated with or endorsed by IBM.
 
 ---
 
+## Simulated runs (subagents): Sponsor Users + saturation
+
+Use when the runtime has an Agent tool and you want to rehearse the Loop on any topic
+*before* (never *instead of*) reaching real users. See the matching procedure in
+[SKILL.md](SKILL.md).
+
+### Simulated Sponsor-User Observe round  · Observe
+- **Honesty rule:** simulated users are NOT real; their output is a set of assumptions to
+  validate, never validation. State this in every playback.
+- **Cast:** ~5 personas within ONE target segment, spanning its range (confidence,
+  attitude, context, motivation). Brief each as a user being interviewed — honest,
+  objections welcome, not there to please you. Spawn in parallel.
+- **Probe:** the riskiest assumption + the loudest fears, via a consistent question set so
+  answers compare cleanly.
+- **Saturation check:** track the **new themes each user adds**; stop when new themes → ~0
+  (usually by user 4–5). Add 1–2 more personas if still diverging. Show the taper. (The
+  same saturation logic applies to real interview rounds.)
+- **Output:** converged pattern (≥4 of 5) → scorecard vs. assumptions → needs statements →
+  proceed to Make. Always close by naming the real-user test.
+
+---
+
 ## Pointers (other toolkit activities, used as needed)
 - **Contextual Inquiry / Interviews** (Observe) — first-hand user data; the source of
   truth that feeds Empathy Maps and As-is maps.

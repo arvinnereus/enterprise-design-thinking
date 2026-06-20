@@ -5,7 +5,11 @@ description: >
   three Principles, drive the Observe-Reflect-Make Loop, align with the Keys (Hills,
   Playbacks, Sponsor Users), and run specific toolkit activities to produce real
   artifacts (Empathy Map, As-is / To-be Scenario Maps, Needs Statements, Hills,
-  Prioritization Grid, Big Idea Vignettes, Storyboards, Feedback Grid, and more).
+  Prioritization Grid, Big Idea Vignettes, Storyboards, Feedback Grid, and more). With
+  subagents available, it can run the whole Loop as a simulated multi-voice session on any
+  topic the user brings — casting a diverse team and ~5 Sponsor Users and looping the
+  Observe round to saturation — with every simulated finding flagged as a hypothesis to
+  validate with real users.
   Trigger when the user asks to "use design thinking", "run Enterprise Design Thinking",
   "facilitate a design-thinking session", write a Hill, build an empathy map, map an
   as-is or to-be journey, ideate then prioritize, or otherwise work a user problem from
@@ -138,6 +142,58 @@ Do all three. Order is flexible; omission is not.
   reality, not in what feels plausible. If you're inventing user behavior, flag it and go
   Observe instead.
 - **Hills stay implementation-independent.** State where to go, never how.
+
+---
+
+## Running the Loop as a simulated session (when subagents are available)
+
+You can run the entire Loop on **any** problem the user brings — using simulated
+participants — whenever the runtime exposes an Agent/subagent tool. It is a fast, powerful
+rehearsal of the Loop, but it carries one non-negotiable rule.
+
+> **The honesty rule — never drop it.** Simulated participants are a *thinking aid* that
+> surfaces sharp, testable hypotheses quickly. They are **not real users**, and their
+> output is **not validation** — it can simply mirror the facilitator's own assumptions.
+> Treat every simulated finding as an **assumption to confirm with real users**, and say so
+> in every playback. Simulation rehearses the Loop; it does not complete it.
+
+**1. Frame from the user's own topic.** Ask for three things: the problem/challenge, who
+the target users are, and the outcome that would matter to them. This is topic-agnostic — a
+product, service, internal process, policy, or program all work, as long as it is
+user-centred. Pick ONE target user segment to focus on first (sequence; don't boil the
+ocean).
+
+**2. (Optional) Cast a diverse team.** For divergent activities (Hopes & Fears, Big Idea
+Vignettes, Feedback Grid), spawn a small panel of subagents, each briefed to stay in
+character from a distinct functional lens that fits the problem — e.g. strategy, finance,
+engineering/feasibility, design or curriculum, marketing, sales, research, operations. If
+the user has named real roles or people, cast those. Each returns concise "sticky notes"
+from its lens; you cluster and synthesize. Keep delegation one level deep.
+
+**3. Run the Observe round with ~5 simulated Sponsor Users.** Cast about **five** personas
+*within the chosen segment*, deliberately spanning its range (e.g. high- vs low-confidence,
+skeptic vs enthusiast, different contexts and motivations). Brief each as a real-world user
+being interviewed: answer honestly, include objections and ambivalence, and **do not please
+the interviewer**. Give them a consistent question set that probes the riskiest assumption
+and the loudest fears. Spawn them in parallel.
+
+**4. Loop to saturation.** After collecting responses, count the **new themes each
+successive user introduces**. They taper (e.g. 5 → 1 → 1 → 1 → 0). **Stop when new themes
+reach ~zero** — that is saturation, and the pattern is stable (usually by user 4–5). If
+users are still introducing new themes, add 1–2 more personas and continue. Show the taper
+so saturation is demonstrated, not asserted.
+
+**5. Reflect.** Synthesize the converged pattern (what ≥4 of 5 said), score it against the
+user's assumptions/fears (validated / invalidated / confirmed-worse), write solution-neutral
+**needs statements**, and name any tension the pattern exposes.
+
+**6. Make.** Reshape the concept and draft up to **three Hills** (Who + What + Wow) grounded
+in the pattern. Optionally Playback to the team panel and capture reactions in a **Feedback
+Grid**, then refine.
+
+**7. Close by naming the real-user test.** End every simulated run by stating the single
+highest-value next action: run this same Observe round with **real** users to confirm or
+break the pattern.
 
 ---
 
