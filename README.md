@@ -66,6 +66,33 @@ on …"* — or let it trigger when you ask to write a Hill, build an empathy ma
 as-is / to-be journey, or ideate then prioritize. It deliberately **won't** trigger on
 ordinary execution tasks that need no user-research framing.
 
+## Simulated-session mode
+
+When you bring a topic but no real users to interview, the skill can run a
+**full Observe → Reflect → Make loop as a simulated multi-voice session**:
+
+1. **Cast** — assembles a diverse facilitation team and ~5 Sponsor Users whose
+   backgrounds represent the range of people affected by the problem
+2. **Observe (to saturation)** — runs interview rounds with each Sponsor User,
+   looping until consecutive rounds produce no new themes (saturation, not a fixed
+   count)
+3. **Reflect** — synthesises findings into an Empathy Map, Needs Statements, and
+   How-Might-We questions; flags any mirror-risk (where all voices converge too
+   neatly and may reflect the prompt rather than genuine diversity)
+4. **Make** — produces Hills, a To-be Scenario, and an architecture or action plan
+   grounded in the synthesised findings
+5. **Stress-test** — an adversarial pass challenges each Hill and assumption before
+   the session closes
+
+**Hard honesty rule:** every finding from a simulated session is labelled a
+*hypothesis to validate with real users* — not research. The skill will say so
+explicitly and will not present simulated voices as validated evidence.
+
+Trigger it the same way as single-pass facilitation — `/enterprise-design-thinking`
+or *"use Enterprise Design Thinking on …"* — and add *"run a simulated session"* or
+*"cast Sponsor Users"* if you want the full multi-voice loop rather than coached
+facilitation.
+
 ## Provenance
 
 The framework content was grounded against IBM's own published material — the Enterprise
